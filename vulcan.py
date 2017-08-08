@@ -1,1 +1,1 @@
-git checkout -b feature-vulcan.
+git checkout -d feature-vulcan.
